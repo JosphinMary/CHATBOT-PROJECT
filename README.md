@@ -1,7 +1,7 @@
 # CHATBOT-PROJECT
 Chatbot project(IBM)
 by -Josphin Mary.S
-# Create a banking chatbot with FAQ discovery, anger detection and natural language understanding
+# Create a chatbot with FAQ discovery, anger detection and natural language understanding
 In this code pattern, we will create a chatbot using Node.js and Watson Assistant. The Assistant flow will detect customer emotions and be enhanced by using Natural Language Understanding to identify location entities. For FAQs, a call to the Discovery service will use passage retrieval to pull answers from a collection of documents.
 
 When the reader has completed this pattern, they will understand how to:
